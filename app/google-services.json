@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465219158943",
+    "firebase_url": "https://samplechat-b1f14.firebaseio.com",
+    "project_id": "samplechat-b1f14",
+    "storage_bucket": "samplechat-b1f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465219158943:android:06f191b042d42d15",
+        "android_client_info": {
+          "package_name": "com.rmn.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465219158943-h7bk3v251ttbeth1h51hsgi67i9derl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kZKkomv0jYOpHDrjoFyzvnQAYIcflV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
